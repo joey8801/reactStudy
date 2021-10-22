@@ -7,3 +7,6 @@
 
 # 3. font  
 - https://fonts.google.com/
+
+# 4. RGB to hex  
+- https://www.rgbtohex.net/
