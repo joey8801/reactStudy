@@ -1,6 +1,6 @@
 # 1. Material-ui  
 - https://mui.com/  
-- https://www.npmjs.com/package/@material-ui/icons  
+- https://www.npmjs.com/package/@mui/material  
 
 # 2. Recharts  
 - https://recharts.org/en-US/guide/installation  
